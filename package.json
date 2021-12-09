@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js",
+    "mocha": "mocha"
+  },
+  "author": "tuziel<tuziel@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.168",
+    "ansi-colors": "^4.1.1",
+    "chai": "^4.3.4",
+    "eslint": "^7.23.0",
+    "log-symbols": "^4.1.0",
+    "mocha": "^8.3.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
